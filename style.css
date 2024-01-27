@@ -1,0 +1,241 @@
+header {
+    width: 1024px;
+    display: flex;
+    justify-content: space-between;
+}
+main {
+    width: 1024px;
+}
+.menu {
+    width: 200px;
+
+}
+.menu a {
+    text-decoration: none;
+    color: rgb(107, 107, 107);
+}
+header a {
+    text-decoration: none;
+    color: rgb(56, 219, 219);
+}
+.main span {
+    background-color: rgb(56, 219, 219);
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 10px;
+    color: white;
+}
+.main h1 {
+    color: rgb(56, 219, 219);
+    font-size: 40px;
+    width: 300px;
+    margin: 0px 0px 20px 0px;
+}
+.main p {
+    color: rgb(107, 107, 107);
+    font-size: 20px;
+    margin: 10px 0px 5px 0px;
+}
+.main {
+    width: 500px;
+    margin: 0px 0px 0px 100px;
+}
+.bottom a {
+    background-color: rgb(196, 196, 196);
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+    width: 70px;
+    border-radius: 20px;
+    margin: 0px 0px 0px 20px;
+    text-decoration: none;
+}
+.bottom a.blue {
+    background-color: rgb(56, 219, 219);
+    font-size: 20px;
+    padding: 10px;
+    width: 70px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.bottom {
+    display: flex;
+}
+.imag {
+    background-color: rgb(56, 219, 219);
+    background-image: url(Image20240113141001.png);
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+    border-radius: 20px;
+}
+.one {
+    display: flex;
+    padding: 70px 0px 0px 0px;
+    justify-content: space-between;
+}
+.two {
+    width: 800px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 0px 0px 0px 115px;
+}
+h2 {
+    margin: 5px;
+    color: rgb(175, 66, 148);
+}
+.two h6 {
+    margin: 5px;
+}
+.two span{
+    display: block;
+    width: 500px;
+    margin: 5px;
+    font-size: 12px;
+}
+.icons {
+    display: flex;
+    align-items: center;
+    color: rgb(175, 66, 148);
+    margin: 5px;
+}
+.icons i {
+    margin: 5px;
+    font-size: 30px;
+}
+footer {
+    font-size: 12px;
+    text-align: center;
+    width: 1024px;
+    margin: 50px 0px 0px 0px;
+}
+.dva {
+    color: rgb(56, 219, 219);
+    text-align: center;
+}
+.experience1 div.text{
+    width: 120px;
+    margin: 5px 0px 0px 0px;
+}
+.experience1 div.year {
+    color: rgb(175, 66, 148);
+    font-weight: 1000;
+    text-align: left;
+}
+.experience1 {
+    width: 800px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    margin: 40px 0px 0px 0px;
+}
+.experience1 div.txt {
+    margin: 0px 0px 0px 190px;
+}
+.odin {
+    display: block;
+}
+.experience1 h2 {
+    width: 100px;
+}
+.center {
+    margin: 0px 0px 0px 100px;
+}
+.skills span{
+    color: rgb(175, 66, 148);
+    font-size: 30px;
+    font-weight: 900;
+}
+.skill {
+    display: flex;
+    justify-content: space-between;
+    width: 700px;
+}
+.skill span {
+    color: black;
+    margin: 20px 0px 0px 0px;
+    font-size: 15px;
+    font-weight: 300;
+}
+.skills {
+    width: 800px;
+    margin: 50px 0px 0px 100px;
+}
+.skils span{
+    color: rgb(56, 219, 219);
+    font-size: 30px;
+    font-weight: 900;
+}
+.skill {
+    display: flex;
+    justify-content: space-between;
+    width: 700px;
+}
+.skill span {
+    color: black;
+    margin: 20px 0px 0px 0px;
+    font-size: 15px;
+    font-weight: 300;
+}
+.skils {
+    width: 800px;
+    margin: 50px 0px 0px 100px;
+}
+.info {
+    width: 450px;
+    height: 200px;
+    display: block;
+}
+.photo{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border-radius: 0px 20px 20px 0px;
+}
+.Project {
+    display: flex;
+    margin: 50px 0px 0px 220px;
+}
+.info span {
+    font-size: 30px;
+    font-weight: 900;
+}
+.info p {
+    color: white;
+    background-color: black;
+    width: 50px;
+    margin: 20px 0px 0px 0px;
+    padding: 15px;
+    border-radius: 20px;
+}
+.inf {
+    width: 350px;
+}
+.finish {
+    color: white;
+    background-color: rgb(175, 66, 148);
+    text-align: center;
+    height: 200px;
+    margin: 50px 0px 0px 0px;
+    align-items: center;
+    border-radius: 20px;
+}
+.finish span {
+    font-size: 40px;
+    font-weight: 900;
+}
+.finish p {
+    color: rgb(175, 66, 148);
+    background-color: white;
+    width: 100px;
+    margin: 20px 0px 0px 0px;
+    padding: 15px;
+    border-radius: 20px;
+    margin: 20px 0px 0px 462px;
+}
+body {
+    font-family: 'Poor story';
+    margin: 0px 150px;
+}
